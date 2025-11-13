@@ -1,0 +1,674 @@
+{
+    "Venture Capital Firms": [
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Ysios Capital",
+        "Investment Stage": "Early-stage, Preclinical",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://ysioscapital.com/",
+        "Observations / Notes": " Leading life sciences investor financing highly innovative companies worldwide. They provide biotech ventures with the resources to develop novel therapies for indications with high unmet medical needs. They invest in companies that will have a positive impact on patients and society. More than 400M euros under managment, 42 invested companies.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Ysios is an early-stage biotech VC (Spain) that explicitly targets ophthalmology and rare CNS indications. Its portfolio includes SparingVision, a gene therapy for inherited retinal degeneration. However, is important to keep in mind that they have a core focus on late preclinical and early clinical projects. That what makes to it a good future candidate, but not for the actual situation of the project."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Invivo Partners",
+        "Investment Stage": "Early-stage, Seed, Pre-Seed",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe",
+        "Website": "https://invivo.partners/",
+        "Observations / Notes": "Spanish early-stage life sciences VC (Invivo I & II, targeting €100M for Fund III) specializing in advanced therapies and biotech innovation. Notable exits include Sanifit (vascular calcification) and Versantis, with ~15 portfolio companies including synthetic biology and AI-enabled biotech.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Invivo invests in early-stage advanced therapies, synthetic biology, and AI-focused biotech. It is EU-based and open to novel modalities, but it has no specific ophthalmology track record. However have already invested in Minoryx, a spin-off focused on the discovery of orphan genetic diseases. Drug4Sight’s focus on the eye is outside Invivo’s stated domains  (at the moment), so I rated Good fit. Its early-stage approach is a plus, but lack of eye disease specialty decreases the match"
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Asabys Partners",
+        "Investment Stage": "Early-stage",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe",
+        "Website": "https://asabys.com/",
+        "Observations / Notes": "Barcelona-based VC (Fund I & II) backing healthtech & biotech, including biopharma and medtech. Closed €180M for Fund II, targeting 12–15 companies; portfolio (~17 companies) includes Orikine Bio (cytokine therapeutics), Augustine Therapeutics (neurology), Agomab (fibrosis).",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Asabys (Spain) backs early-stage biotechs in therapeutics and devices. Notably, it co-led a Series B in SpliceBio, a Stargardt (retinal) gene therapy startup. This shows some ophthalmology interest. However, ophthalmology is not core to Asabys’s portfolio (they focus broadly on innovative therapeutics). Thus I judge Asabys a Good fit: stage and region align, and its backing of SpliceBio demonstrates potential interest, but eye disorders or orphan diseases are not a primary theme."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Clave Capital",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Spain, Europe",
+        "Website": "http://clave.capital/",
+        "Observations / Notes": "Spanish VC with 90+ investments; launched an €80M health fund focusing on biotech, medtech, eHealth. Invests small tickets (€0.5–5M) in seed/early stage startups. Historically ~50% of portfolio in life sciences.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Clave (Spain) is an early-stage healthcare VC investing in biotech and medtech (seed to Series A). Its broad healthtech portfolio is Europe‐focused. Clave does not specialize in eye diseases, but it funds disruptive therapeutic startups and the formation of spin offs even before the constitution of the society. Given the right stage and geography alignment, it could support Drug4Sight’s novel small molecule program even though ophthalmology is not explicit in its mandate."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "4BIO Capital",
+        "Investment Stage": "Early-stage, Series A",
+        "Location (HQ / Offices)": "Belgium",
+        "Where They Invest": "Global",
+        "Website": "https://4biocapital.com/",
+        "Observations / Notes": "Life sciences VC focusing on advanced therapies (cell, gene, RNA) and cutting-edge biotech. Stage-agnostic from pre-seed to Series A. Portfolio includes Ray Therapeutics (optogenetic gene therapy for RP) and other novel biologics.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "No consistent info about if they invest in seed/pre seed stage. 4BIO (Belgium) exclusively invests in advanced therapies (cell/gene/RNA/target therapies). It funded Ray Therapeutics (optogenetic gene therapy for retinitis pigmentosa) and also Sparing Vision (pre clinical gene therapy for the treatment of Retinitis Pigmentosa), showing rare ophthalmology interest. However, 4BIO’s focus on biologics (non‐small molecules) means Drug4Sight’s small‑molecule approach is less aligned. Stage-wise. Despite this, their big interest on Retinitis Pigmentosa (2 of their portfolio companies are about fighting this diseases) make them a potential candidate.4BIO does lead early rounds (pre-seed to A). I rate it High fit despite the modality mismatch"
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Abingworth",
+        "Investment Stage": "Series A, Series B",
+        "Location (HQ / Offices)": "UK",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://abingworth.com/",
+        "Observations / Notes": "Global biotech VC, typically invests $15–30M in Series A/B. Invests across modalities (small molecules, biotherapeutics, gene therapies). Portfolio includes Atsena (AAV gene therapy for LCA, a retinal disorder), Alnylam (RNAi) and others.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "As said, their ticket size is of around 15-30 million dollars, also they typically invest in Series A/B, it could be a good obtion in the future, not now. Abingworth is a long-established VC (Europe/US) that backs series A–B biotech across modalities. Its portfolio includes GenSight (gene therapies for retinal diseases, regardless of which genes are affected). Abingworth invests in both small molecules and advanced therapies for rare/neurodegenerative conditions, including ophthalmology. Despite this, most of their portfolio companies are US based, Abingworth remains a Good fit for Drug4Sight (retinal rare disease small molecules)."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Advent Life Sciences",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "UK / USA",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://www.adventls.com/",
+        "Observations / Notes": "Biotech VC investing in novel drug discovery across all modalities. Since 2006, Advent-backed companies have produced 15 approved therapies. Portfolio spans oncology, neurology, ophthalmology (e.g. Aura Biosciences - ocular oncology, Beacon Therapeutics - retinal gene therapy).",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "It explicitly invests in ophthalmology: its portfolio includes Beacon Therapeutics (retinal gene therapy for X-linked RP) and Aura Biosciences (ocular cancer therapy). Advent’s focus on rare disease and broad modality (small molecules, biologics) makes it High fit for Drug4Sight’s preclinical retinal program."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Forbion",
+        "Investment Stage": "Preclinical, Growth",
+        "Location (HQ / Offices)": "Netherlands / Germany / USA",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://forbion.com/",
+        "Observations / Notes": "Leading European life science VC (Fund VII ~€890M) building biotech companies from scratch. Focuses on preclinical/early-stage in CNS, rare genetic, and ophthalmology. Notable: Beacon and AAVantgarde (retinal gene therapies), Azafaros (CNS rare).",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Forbion (Netherlands/Germany/US) is a global life-sciences VC (all stages) with an emphasis on rare and ophthalmic therapeutics. It recently led a $170M Series B in Beacon Therapeutics for XLRP gene therapy. Forbion’s expertise in retina/rare disease and its readiness to lead large financings in this space make it High fit for Drug4Sight. (It addresses the exact disease area, method (small molecules) and stage we seek)."
+    },
+    {
+        "Type": "Private Equity",
+        "Name of VC / VB": "EQT Life Sciences",
+        "Investment Stage": "All stages",
+        "Location (HQ / Offices)": "Sweden (EQT HQ), Global",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://www.eqtgroup.com/",
+        "Observations / Notes": "One of Europe’s largest healthcare investors managing multi-billion funds. Invests in biotech and medtech across all stages. Notable investments: Amolyt (rare endocrine) and Pharvaris (rare immunology).",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Good fit, EQT focuses all-stage investments. They are interested in rare diseases, in their last fund (LSP 7) still active, they invested in Oculis (biopharmaceutical company active in the field of eyecare) showing taht they are probably interested in investing in the ophtalmologycal field. However, their investments range between 30 and 60 million of EUR, showing that despite they invesy in early stage, they seek more consolidated companies. projects."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Sofinnova Partners",
+        "Investment Stage": "Seed, All stages",
+        "Location (HQ / Offices)": "France / USA",
+        "Where They Invest": "Global",
+        "Website": "https://www.sofinnovapartners.com/",
+        "Observations / Notes": "Europe’s oldest biotech VC (50+ year history, €4B AUM) investing in early to late-stage life science. Portfolio spans oncology, CNS, ophthalmology and many other pioneering startups.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Sofinnova (Paris/London/Milan) is one of Europe’s oldest biotech VCs (seed through growth). It backs small molecules and biologics across therapeutic areas. Analyzing their portfolio  they invested in Pixium Vision (retinal implant system) and also in ProQR Therapeutics (biotechnology company dedicated to the development RNA therapies for rare genetic diseases. Mainly focuses drug development on a group of blinding disorders (inherited retinal diseases)) ."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "AdBio Partners",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "France / Spain",
+        "Where They Invest": "Europe",
+        "Website": "https://adbio.partners/",
+        "Observations / Notes": "Paris/Barcelona VC focusing on oncology, immunology, ophthalmology, and rare diseases. Invests seed through Series A. Portfolio: SparingVision (inherited retinal disease gene therapy), Augustine Therapeutics (neuropathy), etc.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "AdBio Partners (Paris/Barcelona) explicitly focuses on ophthalmology and rare diseases. It invests at very early stage (seed/Series A) in drug discovery. Its portfolio spans multiple areas including ophthalmology (e.g. SparingVision) and rare disease. This alignment in disease area, stage, and region makes AdBio an excellent fit for the Drug4Sight project"
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Wellington Partners",
+        "Investment Stage": ",Early-stage,Seed, Growth",
+        "Location (HQ / Offices)": "Germany",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://www.wellington-partners.com/",
+        "Observations / Notes": "European biotech and medtech VC with ~€590M across 5 funds. Invests in innovative therapies and diagnostics. Portfolio includes Actelion (PAH) and vaccines; focus is broad beyond ophthalmology.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Wellington Partners is a broad life-sciences VC (EU/US) investing at various stages in biotech and medtech. It has a history in CNS and immunology but no particular ophthalmology specialization. Stage-wise it could co-invest in Series A."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Seventure Partners",
+        "Investment Stage": "Early-stage,Seed, Growth",
+        "Location (HQ / Offices)": "France",
+        "Where They Invest": "Europe, Israel",
+        "Website": "https://www.seventure.fr/",
+        "Observations / Notes": "Paris-based VC (~€950M AUM) investing in life sciences and digital. Known for microbiome funds and broad healthtech. Portfolio spans biotech, medtech, and health IT.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Seventure (Paris) is a generalist life-science VC (early to growth) investing in biotech, microbiome, diagnostics, etc. It does not specifically target ophthalmology. Stage and geography are fine, but lacking focus alignment I considered it a moderate fit. (Its broad portfolio and EU focus keep it relevant, but no ophtalmology interst is apparent.)"
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "High-Tech Gründerfonds",
+        "Investment Stage": "Early-stage,Seed",
+        "Location (HQ / Offices)": "Germany",
+        "Where They Invest": "Europe",
+        "Website": "https://www.htgf.de/",
+        "Observations / Notes": "Germany’s largest seed investor (~€3B managed) covering tech and life sciences. ~800 startups in portfolio. Active life-science arm funds early biotech and chemical innovation. Mainly focused in Germany investments.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": " HTGF (Germany) is a large seed-stage fund for tech and life-science startups. It will consider biotech/health ventures, but it is not ophthalmology-focused. We rate moderate fit: it could provide early funding and is EU-based, but Drug4Sight’s vision-specific niche is outside HTGF’s main themes (which are broader tech and biotech)."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Sunstone Life Sciences Ventures",
+        "Investment Stage": "Early-stage,Seed, Series A",
+        "Location (HQ / Offices)": "Denmark, France",
+        "Where They Invest": "Europe",
+        "Website": "https://sunstone.eu/",
+        "Observations / Notes": "Nordic VC (~€160M Fund V) investing in early-stage therapeutics (preclinical to PhI). Prefers niche/orphan disease indications. Often serves as active co-lead to bring companies to exit. Principally focused in investments in (Nordics & Central)",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Sunstone is an early-stage life-science fund that explicitly prioritizes orphan/niche indications. It invests mainly at preclinical/Phase I in EU companies. Its focus on unmet needs and orphan diseases.. I rate it Good fit because of Sunstone’s EU scope and stage fit with Drug4Sight’s profile, however, ophthalmology is not a core theme in their portfolio."
+    },
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "Kurma Partners",
+        "Investment Stage": "Early-stage,Seed, Growth",
+        "Location (HQ / Offices)": "France",
+        "Where They Invest": "Europe",
+        "Website": "https://kurma-partners.com/",
+        "Observations / Notes": "European healthcare VC building companies from inception. Manages ~€890M across funds. Focus on disruptive therapeutics.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Kurma (Paris) is an early-stage VC specializing in life sciences spinouts from academia. It co-invested in Coave Therapeutics (French biotech for RP gene therapy). Kurma’s history with retinal gene therapies and rare diseases indicates a strong strategic alignment."
+    },
+   
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "ExSight Ventures",
+        "Investment Stage": "Early-stage,Seed, Series A, Series B",
+        "Location (HQ / Offices)": "USA",
+        "Where They Invest": "North America, Europe",
+        "Website": "https://www.exsightventures.com/portfolio",
+        "Observations / Notes": "Ophthalmology-focused VC (NY/Boston) founded by retina specialists. Invests in early-stage (pre-seed to Series B) companies developing eye-disease diagnostics and therapies. Portfolio includes RevOpsis (wet AMD treatment).",
+        "Drug4Sight Fit": "Excellent fit",
+        "Drug4Sight": "Excellent fit, ExSight exclusively funds vision science and retinal therapies. Drug4Sight’s rare retinal therapy is directly aligned."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Gilde Healthcare",
+        "Investment Stage": "Growth",
+        "Location (HQ / Offices)": "Netherlands",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://gildehealthcare.com/",
+        "Observations / Notes": "European healthcare investor (formerly Gilde Healthcare Partners). Focus on growth and mid-stage life science (therapeutics and devices). Backed companies like Synexa (CRO) and other drug development service providers.",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "Low fit, Primarily targets later-stage companies and services. Drug4Sight’s early-stage therapy falls outside their usual scope."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Aliath Bio Ventures",
+        "Investment Stage": "Early-stage,Seed, Series A, Series B, Growth",
+        "Location (HQ / Offices)": "Spain, Europe",
+        "Where They Invest": "Europe, Middle East",
+        "Website": "https://www.aliathbio.com/",
+        "Observations / Notes": "Spanish life sciences VC (Altamar) investing in therapeutics and health tech from seed to growth. Focus on disruptive healthcare solutions. Portfolio includes neuroscience (Inbrain) and diagnostics (Inbiomotion).",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Good fit, Aliath backs innovative therapeutic platforms. A rare retinal small-molecule could fit their investment theme."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "HealthCap",
+        "Investment Stage": "Growth",
+        "Location (HQ / Offices)": "Sweden",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://www.healthcap.eu/",
+        "Observations / Notes": "Leading Nordic biotech VC (~€2B AUM) since 1996. 132 portfolio companies and 34 approved drugs (reaching 500M patients). Focuses on rare, genetic and oncology indications.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "HealthCap (Sweden/US) is a leading biotech VC covering all stages. Its portfolio has included several ophthalmic projects: e.g. it backed GenSight (LHON gene therapy for inherited blindness). HealthCap also co-invested in other rare/neuro-ophthalmic ventures.."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Medicxi Ventures",
+        "Investment Stage": "Early-stage,Seed, Series A",
+        "Location (HQ / Offices)": "UK / Switzerland",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://www.medicxi.com/",
+        "Observations / Notes": "London/Geneva-based early biotech VC (Index Ventures spin-out). Asset-centric approach with pharma partnerships. Portfolio: Genmab (oncology), Minerva Neurosciences (psychiatric) etc.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Medicxi (London) is a dedicated biotech fund investing in seed and Series A across Europe. While not exclusively ocular, it focuses on novel therapeutics in CNS and rare diseases. Medicxi’s flexible modality approach (small molecules and beyond) and early-stage investments make them an interesting inversor."
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Chiesi Ventures",
+        "Investment Stage": "Early-stage,Seed, Series A, Discovery",
+        "Location (HQ / Offices)": "Italy / North America",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://www.chiesiventures.com/",
+        "Observations / Notes": "VC arm of Chiesi Farmaceutici focusing on rare and orphan diseases. Invests in early stage, (discovery, pre-clinical, early clinical stage). Complements Chiesi’s strategic R&D.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Specialized in orphan diseases and investing in discovery stage. Drug4Sight’s rare retinal disease matches Chiesi’s investment focus. This can be confirmed since in their portfolio we see companies such as Minoryx Therpaeutics, developing innovative treatments for rare diseases, we also we find Reneo, a San Diego based company focused in the development of novel treatments for orphan diseases."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Sound Bioventures",
+        "Investment Stage": "Late preclinical, Clinical",
+        "Location (HQ / Offices)": "Denmark / Sweden",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://soundbioventures.com/",
+        "Observations / Notes": "Nordic VC backing therapeutics in late preclinical/clinical stage for unmet needs. Portfolio: Breye Therapeutics (diabetic retinopathy small molecule), Teitur Pharma (neurodegeneration), etc.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Sound (UK) invests in pharma spin-offs for CNS and rare conditions. Its focus is on neurology and genetic medicine, not ophthalmology. We judge a Low fit: Sound prefers modalities like oligonucleotide drugs and has no obvious retina pipeline. Stage could match early, but domain does not."
+    },
+    
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "TVM Life Science Capital",
+        "Investment Stage": "Early-stage,Seed, Series A, Series B, Late-stage",
+        "Location (HQ / Offices)": "Germany / North America",
+        "Where They Invest": "Global",
+        "Website": "https://tvm-capital.com/",
+        "Observations / Notes": "German VC known for a dual strategy (early asset-centric, late-stage) with Lilly partnership. Focuses on high unmet needs (oncology, immunology, CNS, rare diseases). Track record includes AurKa, Acanthas (acquired by Lilly).",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Good fit, TVM targets rare diseases. Drug4Sight’s novel rare retina therapy fits their focus and asset-centric approach."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Pureos Bioventures",
+        "Investment Stage": "Series A, Growth",
+        "Location (HQ / Offices)": "Switzerland",
+        "Where They Invest": "Europe, Israel, North America",
+        "Website": "https://www.pureosbio.com/",
+        "Observations / Notes": "Swiss VC investing in innovative drug companies for severe diseases. Focus on next-generation biologics and small molecules. Portfolio spans oncology, neurology, and ophthalmology – e.g. NovaGo (eye/CNS regenerative therapy) and PulseSight (ophthalmic gene therapy).",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "High fit, Pureos funds eye disease programs (NovaGo, PulseSight). Drug4Sight’s rare retinal compound aligns with their mandate."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "OrbiMed",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "USA",
+        "Where They Invest": "Global",
+        "Website": "https://www.orbimed.com/",
+        "Observations / Notes": "Global healthcare investment firm (>$18B AUM) spanning biotech, pharma, medtech. Invests at all stages worldwide. Diverse portfolio across diseases (e.g. Star Therapeutics for rare diseases.",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "OrbiMed is a global life-science investment firm (from venture to buyout). Its large-scale funds typically join late-stage rounds. It has broad reach but no special emphasis on ophthalmology or small EU startups."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Atlas Venture",
+        "Investment Stage": "Early-stage,Seed, Series A",
+        "Location (HQ / Offices)": "USA",
+        "Where They Invest": "Global",
+        "Website": "https://www.atlasventure.com/",
+        "Observations / Notes": "Early-stage biotech VC (Boston) creating startups from academic science. Portfolio includes Vedere Bio (ocular gene therapy sold to Novartis). Broad therapeutic scope including neurology, metabolism, oncology.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Atlas (US/EU) is a veteran biotech incubator/VC focusing on early preclinical startups (seed to early Series A). It invests in small molecules and platforms across CNS, oncology, etc. While not exclusively ophthalmology, Atlas’s flexible science-first model and track record in founder-led biotech make it High fit for Drug4Sight’s preclinical program."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "BioGeneration Ventures",
+        "Investment Stage": "Early-stage,Seed",
+        "Location (HQ / Offices)": "Netherlands / Germany / USA",
+        "Where They Invest": "Europe",
+        "Website": "https://www.biogenerationventures.com/",
+        "Observations / Notes": "Amsterdam-based early-stage biotech VC (joint venture of Forbion). Focuses on pre-seed and seed investments, creating companies from research spinouts. Part of Forbion’s formation strategy.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "BGV (Netherlands) invests broadly in biomedical and IT. Its biotech focus includes rare diseases (e.g. Oncode Institute spin-offs) but no known eye portfolio. It can invest early, but without a retina specialty we rate moderate. Geographic and stage alignment are positive (European seed/A), but ophthalmology is not a known niche for BGV."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "SV Health Investors",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "UK",
+        "Where They Invest": "Global",
+        "Website": "https://svhealthinvestors.com/",
+        "Observations / Notes": "UK venture firm (SV group) with ~$1B in life sciences funds. Manages multiple funds (SV Life Sciences, SV Biotech, SV Dementia Discovery). Invests in core therapeutics at various stages; strong focus on neuro and rare.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Moderate fit, SV Health is broad biotech but emphasizes neuroscience (Dementia Fund) and oncology. A rare ocular therapy may attract them as a novel asset."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Jeito Capital",
+        "Investment Stage": "Growth",
+        "Location (HQ / Offices)": "France / USA",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://www.jeito.life/",
+        "Observations / Notes": "Global VC (Paris, NY) with a patient-focused approach. Funds transformative medical innovations. Portfolio includes SparingVision (retinal disease) and Pulmocide (lung). Founded by experienced pharma entrepreneurs.",
+        "Drug4Sight Fit": "Low fit",   
+        "Drug4Sight": "Jeito targets social impact and healthcare (with substantial public funding). It invests at early stages but primarily in diagnostics and digital health in Europe. We see no ophthalmology or rare disease specialization. Thus Low fit for Drug4Sight."
+    
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Criteria BIOVentures",
+        "Investment Stage": "Early-stage,Seed, Series A",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe, North America",
+        "Website": "https://www.criteriabioventures.com/",
+        "Observations / Notes": "Spain/Portugal-focused biotech VC (Caixa Capital Risc) investing in private drug discovery startups globally. Agnostic to modality, builds companies across CNS, oncology, infectious, etc.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Criteria BIOVentures backs innovative life science ventures. A rare ophthalmic drug could align with their strategy."
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Boehringer Ingelheim Venture Fund",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "Germany, USA",
+        "Where They Invest": "Global",
+        "Website": "https://www.boehringer-ingelheim-venture.com/",
+        "Observations / Notes": "Corporate VC of Boehringer Ingelheim (pharma co.). Invests worldwide in early/mid-stage biotech, focusing on areas complementary to BI’s pipeline (e.g., immunology, cardiometabolic, neurology).",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "BI’s venture arm (Germany/US) invests broadly in biotech specificly in Cancer (immuno-oncology & targeted therapy),regenerative medicine (incl. cell reprogramming & neuro degeneration), auto-immunity indications, digital solutions (supporting the pharma value chain), infectious disease (focus to AMR). As it can be observed, ophthalmology is not a stated priority area for BI, in addition the stage do not match with Drug4Sight needs."
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Novartis Venture Fund",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "Switzerland (Basel)",
+        "Where They Invest": "Global",
+        "Website": "https://www.nvfund.com/",
+        "Observations / Notes": "VC arm of Novartis. Invests globally in biotech and medtech that complements Novartis innovation. Focus on drugs and platforms in oncology, CNS, immunology, and ophthalmology (via Alcon).",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "They invest across biotech/pharma spectrum and is said in their website, in all stages, from seed to growth. However going more indeep in their company, we can see how they are specialized in investment ticket sizes from USD 5 - 10 million, which can be to much for the current stage of Drug4Sight. Analyzing their portfolio, we can see how they have already invested in companies adressing neurodegenerative diseases (AstronauTx or NRG Therapeutics). Also tehy are invested in companies using the small molecules approach (HYKU Biosciences). In addition they have invested in ONL therapeutics, a company dedicated to protect and improve the vision of patients with retinal diseases. <b>All indicates it could be a good candidate, however the ticket size might be to big</b>"
+    
+     },
+     {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "GV (Google Ventures Life Sciences)",
+        "Investment Stage": "Early-stage,All stages, Seed",
+        "Location (HQ / Offices)": "USA",
+        "Where They Invest": "Global",
+        "Website": "https://www.gv.com/",
+        "Observations / Notes": "One of the most sought-after sources of early-stage funding for startups is the Google Ventures fund, also known as GV. GV is the venture capital arm of Google, and it invests in companies across various sectors, such as life sciences, consumer, enterprise, and frontier technology. GV has backed some of the most successful and innovative startups in the world, such as Uber, Slack, Stripe, Airbnb, and 23andMe..",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": " Google Ventures is a huge fund with over 10 Billion dollars under managment and 400 portfolio companies. I did not find any information regarding their investment stage or ticket size in their own website, however some sources state that they can invest anywhere from 100.000$ to 250 million$ USD dollars. Analyzing in more detail their life sciences portfolio, we can see how they have invested in a lot of differnt sectors. They have some companies related with small molecules and rare diseases, and 1 with an ophtalmological approach; RhyGaze which use Gene Therapy for sight. Important to remark that the information regarding their small ticket size is not extracted from theie website, so it might not be completly realistic."
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Roche Venture Fund",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "Switzerland (Basel)",
+        "Where They Invest": "Global",
+        "Website": "https://www.roche.com/venturefund/venturefund-portfolio",
+        "Observations / Notes": "VC arm of Roche (pharma). Invests globally in early to growth-stage biotech and diagnostics. Focus on immunology, oncology, neuroscience, orphan diseases (Minoryx in their portfolio) and digital diagnostics. Strategic co-investor rather than lead.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "In their innovation website part, we can see how some of their focus are Rare Diseases and the Ophtalmological approach. Analyzing more indeep their portfolio,we can see different companies adressing rare diseases (Mynorix Therapeutics) and also using small molecules technologies (Enliven Therapeutics and Mironid Therapeutics). However, they are focused in Series A investments, usually they invest CHF 3-10 million in the first financing round with a 15% ownership stake "
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Novo Holdings (Novo Ventures)",
+        "Investment Stage": "Early-stage,All stages, Seed",
+        "Location (HQ / Offices)": "Denmark",
+        "Where They Invest": "Global",
+        "Website": "https://novoholdings.dk/investments/seed-investments",
+        "Observations / Notes": "Holding company of Novo Nordisk/Novozymes with $70B AUM. Novo Ventures (their VC arm) invests in global biotech and life science companies. Portfolio is broad, including therapeutics and tech platforms.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Novo Ventures have its own seed section, in which they invest in companies in this stage, they have their own In-House Seed Lab. Analyzing the portfolio of this section of Novo Ventures we can see how they are invested in different companies such as Breye Therapeutics, a clinical stage biopharmaceutical company pursuing a mission to develop novel oral therapies for the treatment of retinal vascular diseases. Also we can find Coave Therapeutics, a company developing solutions for differents ocular diseases, such as Pigmentary retinopathies, which include retinitis pigmentosa (RP) and Leber congenital amaurosis and macular dystrophies. There are also other companies with approaches in rare diseases and small molecules technlogy.  "
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Leaps by Bayer",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "Germany (Berlin)",
+        "Where They Invest": "Global",
+        "Website": "https://leaps.bayer.com/companies/health",
+        "Observations / Notes": "Bayer’s strategic investment arm (Leaps). Funds disruptive life science & agtech. ~€1B invested in biotech/digital healthcare, with notable investments in gene therapy and AI (CureVac, Ginkgo, BlueRock).",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "The health arm of Leaps by bayer have as one of their 10 Leaps the cure of genetic disease. However, despite they state in their website that they invest in early stage, there is no information about the ticket size or if they invest in seed stage. Analyzing their portfolio I also did not found any extra information regarding their investment stage, so I assumed they are more interested in more consolidated projects. "
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "Alcon Seed Fund",
+        "Investment Stage": "Early-stage,Seed",
+        "Location (HQ / Offices)": "USA (Fort Worth), global",
+        "Where They Invest": "Global",
+        "Website": "https://www.alcon.com/featured-stories/seeding-future-eye-care/",
+        "Observations / Notes": "Corporate VC by Alcon (Novartis eye-care) launched 2022. Targets early-stage ophthalmic innovations for high unmet eye conditions. Considered >400 startups, executed ~15 deals (2022–24).",
+        "Drug4Sight Fit": "Excellent fit",
+        "Drug4Sight": "Alcon Seed Fund specifically looks for new eye-care therapies, one of the main problems could be seen at the beginning is that they are located in the US, I tried to find their portfolio to see if they invest in companies located in Europe, however this information is not avaible maybe because it is a recent fund since it was funded in 2022 . Drug4Sight’s retinal disease focus is directly aligned with their mission, but should be confirmed if they are interested in investing in Europe."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Bioqube Ventures",
+        "Investment Stage": "Early-stage,Seed, Series A, Series B, Growth",
+        "Location (HQ / Offices)": "Belgium",
+        "Where They Invest": "Global",
+        "Website": "https://www.bioqubeventures.com/",
+        "Observations / Notes": "Global life sciences VC (Belgium/US) investing in first/best-in-class therapeutics for major unmet needs. Stage-agnostic (seed to early clinical) with a balanced portfolio approach.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "Bioqube invests broadly in breakthrough therapies. They may consider Drug4Sight given its novel retinal disease target."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "BioMed Partners",
+        "Investment Stage": "Early-stage",
+        "Location (HQ / Offices)": "Belgium/Switzerland",
+        "Where They Invest": "Europe",
+        "Website": "https://biomedvc.com/en/biomedvc",
+        "Observations / Notes": "Belgian/Swiss VC with dedicated healthcare funds (BioMedInvest I–III, BioMedVC IV). Invests in biotech and medtech startups (seed to later stages) for life science innovation. Has managed ~€100M+ per fund.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "BioMed (Switzerland/Benelux) invests in life-science companies from series A up. It backs novel therapeutics (notably Lysogene, a gene therapy co.). It has not publicly emphasized ophthalmology. Given EU presence and small-molecule interest I rate it as moderate fit."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Panakès Partners",
+        "Investment Stage": "Early-stage,Seed, Series A, Growth",
+        "Location (HQ / Offices)": "Italy",
+        "Where They Invest": "Europe",
+        "Website": "https://www.panakes.it/",
+        "Observations / Notes": "Italian VC investing in life sciences (devices, diagnostics, drugs) for high unmet needs. Portfolio spans ophthalmology (presbyopia solutions), neurology, oncology, cardiovascular, diagnostics. ~€150M in funds.",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "Panakès has ophthalmology investments (presbyopia technology) and targets unmet needs. Drug4Sight’s retinal therapy matches their sector interests."
+    },
+{
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Octopus Ventures",
+        "Investment Stage": "Early-stage,Seed, Early-stage",
+        "Location (HQ / Offices)": "London",
+        "Where They Invest": "Europe",
+        "Website": "https://octopusventures.com/about/",
+        "Observations / Notes": "Octopus Ventures, part of Octopus Investments, is one of the largest venture capital investors in Europe. They are backing advances in biosciences and molecular biology. Investing in sectors including advanced therapeutic, diagnostic and biomanufacturing platforms, AI/ML enabled drug discovery, life science tools and industrial biotech ",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "I have not found any company in their portfolio that is focused on ophthalmology or rare retinal diseases, but they are active in biosciences and molecular biology so there could be interested."
+    },
+    {
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "M Ventures",
+        "Investment Stage": "Early-stage,All stages",
+        "Location (HQ / Offices)": "Germany (Merck KGaA)",
+        "Where They Invest": "Global",
+        "Website": "https://www.m-ventures.com/",
+        "Observations / Notes": "Strategic corporate VC fund of Merck KGaA (Darmstadt) with ~€600M deployment. Invests in biotechnology and frontier tech. Focus areas: healthcare drug development (therapeutics, R&D tools) and tech (electronics, data storage).",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": " M Ventures funds is not a good partner for Drug4Sight, since analayzing their portfolio, they have not invested in any company related with Therapteutics. While not specifically known for ophthalmology, Drug4Sight’s medical innovation could be of interest."
+    },
+    {
+    
+
+        "Type": "Corporate Venture",
+        "Name of VC / VB": "UPMC Enterprises",
+        "Investment Stage": "Seed, Early-stage,All stages",
+        "Location (HQ / Offices)": "Pitsburgh, USA",
+        "Where They Invest": "Global",
+        "Website": "https://enterprises.upmc.com/about/",
+        "Observations / Notes": "UPMC Enterprises is the innovation and commercialization arm of UPMC, one of the largest healthcare providers in the US. They invest in healthcare startups and technologies that can improve patient care and outcomes.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": " Is important to note that I can't confirm that they invest in seed stage, since the unique information avaiable in their website is that they invest in all stages. Despite in their portfolio we can find companies such as Sparing Vision (vision tratments) or Avista (company developing innovative gene therapies for retinal diseases and rare ophthalmic conditions). Is important to note that only 2 of their portfolio companies are located in Europe."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Thuja Capital",
+        "Investment Stage": "Early-stage",
+        "Location (HQ / Offices)": "Netherlands",
+        "Where They Invest": "Europe",
+        "Website": "https://www.thujacapital.com/this-is-thuja/",
+        "Observations / Notes": "Company focused on investing in early-stage life sciences and healthcare companies in Europe. They look for innovative solutions that address unmet medical needs across various therapeutic areas. Their approach is to invest early and work closely with research institutions.",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": " In their portfolio we can find some companies suh as Alesta Therapeutics. which is a company based in developing novel small molecueles to treat rare diseases. However, in their portfolio or aviable information I did not find any suggest of they being interested in investing in ophtalmologycal projects."
+    },
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Nara Health",
+        "Investment Stage": "Preclinical, Clinical",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe",
+        "Website": "https://www.nara.capital/nara-health",
+        "Observations / Notes": "Venture fund which invest in companies involved in projects of techonological base in the health and biotechnology fields. Special focus in medical devices and life sciences.", 
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": " Despite being an Spanish fund priorizing this region for their investments, their investment phase and main investing focus do not match with Drug4Sight approach."
+    },
+
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Nina Capital",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe",
+        "Website": "https://www.nina.capital/",
+        "Observations / Notes": "Seeding founders who are marrying in-depth understanding of the complex network of healthcare system participants with meaningful engineering innovation, advanced data science, and information technology-enabled products and services.", 
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": " Despite being an Spanish fund, analyzing the companies they invested in their latest fund, we can obaerve how now they are more interested in data & AI projects and not in the investment on drug deveolpment ."
+    },
+
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "TAV",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Frankfurt, Germany",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://taventures.vc/about/",
+        "Observations / Notes": "Venture fund which invest in Pre-seed, Seed stage. The 80% of their investments are in Deep Tech ans software across Health & Biotech.", 
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": " Despite I did not find any company in their portfolio related with ophthalmology, they have already invested in rare diseases. Also they invest in really early stage which can be usefull for Drug4Sight project."
+
+    },
+     {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Omega Funds",
+        "Investment Stage": "All stages, Early-stage",
+        "Location (HQ / Offices)": "Frankfurt, Germany",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://taventures.vc/about/",
+        "Observations / Notes": "Omega Funds is a global leader in healthcare investing,creating and investing in life sciences companies that target our world's most urgent medical needs. They invest across multiple therapeutic areas, including oncology, immunology, rare diseases, precision medicine and others.", 
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": "I did not find any company in their portfolio related with ophthalmology. However. they have already invested in rare diseases and small molecules approaches."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "Alkamis",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "United Kingdom",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://www.alkamis.co/",
+        "Observations / Notes": "Alkamis is a venture builder investor focused on Life Sciences investments, with 3 main points of action; Creation, Building and Transforming",
+        "Drug4Sight Fit": "Moderate fit",
+        "Drug4Sight": "There is no information avaiable regarding their investment focus or portfolio, I also checked their linkedin profile but there is no information avaiable."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "General Inception",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "US",
+        "Where They Invest": "Europe, US",
+        "Website": "https://www.generalinception.com/companies",
+        "Observations / Notes": "General inception is a deep tech venture studio, it has an Investing arm for European startups, named Igniter Europe.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight":"In their portfolio we can see how they have already invested in companies whoch use small molecules technology so Drug4Sightcould be a good option for them."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "European Biotech Venture Builder",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Spain",
+        "Where They Invest": "Europe ",
+        "Website": "https://www.ebvb.eu/",
+        "Observations / Notes": "High impact Venture Building of eHealth Technologies, New Therapeutic Entities (NCEs & NBEs), Advanced Therapy Medicinal Products (ATMPs) and Synthetic Biology (SynBio).",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight":"There is no much information avaiable regarding this institution, however could be interesting to contact them."
+
+    },
+
+    
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "NLC",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Amsterdam, Netherlands",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://www.nlc.health/",
+        "Observations / Notes": "World-leading healthtech venture builder and early-stage investor. Their purpose is to bring science to life by bridging the gap between scientific discoveries and market-ready solutions that transform patients’ lives.",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "Analyzing their portfolio I did not find any company related with the ophthalmology field. However,they invest aborad different therapeutics fields, so they might be interested."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "M2CARE",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "France",
+        "Where They Invest": "Europe, Global",
+        "Website": "https://www.m2.care/en/",
+        "Observations / Notes": " Venture Studio with focus in Healthtech, they finance, operate and develop innovations that adress major health challenges.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "Despite in their portfolio there is no pressence of a company related with Drug4Sight project. However, since there is no information regarding which are they focus we can' discard them as an option."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "Cube Labs",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Italy",
+        "Where They Invest": "Europe",
+        "Website": "https://cube-labs.com/about-us/",
+        "Observations / Notes": " Cube Labs is an Italian venture builder in the healthcare technology sector created to bridge the gap between excellent academic science and the commercial Life Science market. Cube Labs creates new companies based on promising R&D and provide strategic, entrepreneurial, and operational support at all the stages of their life cycle to transform pioneering science into healthcare solutions.",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "Despite again there is no pressence of ophtalmological or reare diseases companies in their portfolio, we can see how they have invested in different areas such as biotech or pharmaceuticals. The problem is all their portfolio companies are from Italy."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "Petri Bio",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "Boston, USA",
+        "Where They Invest": "Europe, US",
+        "Website": "https://2020.petri.bio/#stats",
+        "Observations / Notes": " Petri Bio was founded in 2020, until now they have already partnered with 11 companies.",
+        "Drug4Sight Fit": "Good fit",
+        "Drug4Sight": "As a recent company they do not have a large portfolio from where extract contundent conclusions, however we can see how they have already invested in biotech companies such as New Equilibrium, a company expanding structure-based drug discovery to shape-shifting targets. ."
+
+    },
+
+    {
+        "Type": "Venture Builder/Studio",
+        "Name of VC / VB": "Third Rock Ventures",
+        "Investment Stage": "Seed, Early-stage",
+        "Location (HQ / Offices)": "USA",
+        "Where They Invest": "US",
+        "Website": "https://www.thirdrockventures.com/approach",
+        "Observations / Notes": " They push the boundaries of science and technology to make a difference in the lives of patients and their families.",
+        "Drug4Sight Fit": "Low fit",
+        "Drug4Sight": "Despite their focus and stage might fit with Drug4Sight project, their portfolio companies are only from the US"
+
+    },
+
+    {
+        "Type": "Venture Capital",
+        "Name of VC / VB": "Columbus Venture Partners",
+        "Investment Stage": "Early-stage",
+        "Location (HQ / Offices)": "Valencia, Spain",
+        "Where They Invest": "Europe",
+        "Website": "https://columbusvp.com/en/",
+        "Observations / Notes": "Columbus is a life science fund whose investment strategy combines deep therapeutic insight with industrial vision capable of identifying botttlenecks in the biotech sector and turning them into real opportunities. They have 400 millions under managment",
+        "Drug4Sight Fit": "High fit",
+        "Drug4Sight": " In their portfolio we can find some companies suh as Aura, which is a company  developing an innovative therapy for ocular melanoma and other eye cancers based on a new viral nanoparticle technology that targets malignant cells without affecting healthy tissue. Also invested in Myorix Therapeutics, a company focused on developing treatments for rare metabolic diseases. Therefore, Columbus Venture Partners shows a clear interest in investing in orphan diseases and also we can see how they have also invested in ophtalmology solutions. Therefore, since they scientific approach is aligned with Drug4Sight project and that they are a Spanish company mainly investing in this country, I would consider them a high fit."
+    } 
+    
+    
+    ]
+
+}

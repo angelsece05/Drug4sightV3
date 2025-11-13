@@ -1,0 +1,31 @@
+Investment Relevance Filters
+
+When evaluating potential investors (VCs or corporate funds) for Drug4Sight, a series of characteristics of the funds previous investments and avaiable information of their investment strategy was used to determine the level of fit with the project. The main filters applied were:
+
+Therapeutic Focus: As more interest the funds have in ophthalmology/retina or closely related areas better fit. Retinitis Pigmentosa and AMD are orphan/neurodegenerative eye diseases, so funds with expertise in ophthalmic drugs were prioritzed, CNS/neurology, or rare diseases.
+
+Molecule Modality: The asset is a small-molecule drug. We screened for investors who back small-molecule therapeutics (versus those exclusively funding biologics, gene/cell therapy, or devices).
+
+Delivery Route: Drug4Sight is topically delivered to the eye. Investors with prior ocular drug or eye-care portfolios are a better fit; those focused on systemic therapies only may be less relevant.
+
+Development Stage: This is an early (preclinical) stage asset. So VCs/funds which invest in preclinical or seed/Series A biotech investments are given a better fit. Funds that only invest at later clinical stages would likely not be interested.
+
+Geography: The project originates in Spain/Europe. Funds with a geographical mandate in Europe (especially Spain/Catalonia) or global funds open to European deals are more likely candidates. Local strategic partners (e.g. Spanish life-science investors, European pharmaceutical affiliates) are also considered.
+
+Portfolio and History: I examined each fund’s portfolio for past investments in retina/ophthalmology (especially RP/AMD), photopharmacology, or related neuroscience/rare-disease assets. A fund with a successful track record in ocular or neurological biotech is a better match.
+In practice, we gave high fit scores to VCs that explicitly list ophthalmology, CNS, neuro, or rare diseases in their focus, that invest in small molecules and drug discovery, that fund early-stage (preclinical) projects, and that have relevant portfolio companies. Funds lacking these characteristics were deprioritized. These filters ensure that Drug4Sight’s retina focus, small‐molecule photopharmacology, ocular delivery, and preclinical stage are all taken into account.
+
+
+Excellent fit: Fully aligned in therapeutic focus, stage, geography, and modality; has prior retinal/ophthalmology investments.
+
+High fit: Strong overlap in biotech focus (rare/CNS/ophthalmic); may lack one perfect match (e.g., not solely eye-focused).
+
+Good fit: Invests in life sciences with relevant stage or modality but no direct retinal track record.
+
+Potential fit: No retinal focus yet, but strategy and flexibility suggest they could invest in Drug4Sight-type assets.
+
+Moderate fit: Partial alignment (e.g., general biotech interest) but key gaps in focus, stage, or modality.
+
+Low fit: Focus or stage is incompatible (e.g., later-stage, non-health sectors, or unrelated geography).
+
+Neutral: No clear alignment or data; broad or undefined investment scope.
